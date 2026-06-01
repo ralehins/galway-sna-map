@@ -1,96 +1,87 @@
 {
-  "scraped_at": "2026-06-01T22:52:12.320192",
+  "scraped_at": "2026-06-01T21:39:41.652128Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
     {
       "post_id": "253525",
-      "school_name": "253525",
-      "post_title": "St Joseph&#039;s NS",
-      "post_type": "Special Needs Assistant",
-      "county": "Fixed-term",
+      "school_name": "St Joseph's NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
       "closing_date": "11/06/2026",
-      "roll_number": "18572V",
-      "address": null
+      "roll_number": "18572V"
     },
     {
       "post_id": "253712",
-      "school_name": "253712",
-      "post_title": "SN Tuairini",
-      "post_type": "Special Needs Assistant",
-      "county": "Part-Time",
+      "school_name": "SN Tuairini",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
       "closing_date": "11/06/2026",
-      "roll_number": "13415D",
-      "address": null
+      "roll_number": "13415D"
     },
     {
       "post_id": "253550",
-      "school_name": "253550",
-      "post_title": "Bushypark NS",
-      "post_type": "Special Needs Assistant",
-      "county": "Permanent",
+      "school_name": "Bushypark NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
       "closing_date": "10/06/2026",
-      "roll_number": "13856K",
-      "address": null
+      "roll_number": "13856K"
     },
     {
       "post_id": "253461",
-      "school_name": "253461",
-      "post_title": "SN Cillinin",
-      "post_type": "Special Needs Assistant",
-      "county": "Permanent",
+      "school_name": "SN Cillinin",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
       "closing_date": "09/06/2026",
-      "roll_number": "18268S",
-      "address": null
+      "roll_number": "18268S"
     },
     {
       "post_id": "253473",
-      "school_name": "253473",
-      "post_title": "Scoil Sheamais Naofa",
-      "post_type": "Special Needs Assistant",
-      "county": "Part-Time",
+      "school_name": "Scoil Sheamais Naofa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
       "closing_date": "09/06/2026",
-      "roll_number": "19803T",
-      "address": null
+      "roll_number": "19803T"
     },
     {
       "post_id": "253356",
-      "school_name": "253356",
-      "post_title": "Kilcroan National School",
-      "post_type": "Special Needs Assistant",
-      "county": "Fixed-term",
+      "school_name": "Kilcroan National School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
       "closing_date": "08/06/2026",
-      "roll_number": "17539S",
-      "address": null
+      "roll_number": "17539S"
     },
     {
       "post_id": "253071",
-      "school_name": "253071",
-      "post_title": "Merlin Woods Primary School",
-      "post_type": "Special Needs Assistant",
-      "county": "Fixed-term",
+      "school_name": "Merlin Woods Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
       "closing_date": "04/06/2026",
-      "roll_number": "20350P",
-      "address": ""
+      "roll_number": "20350P"
     },
     {
       "post_id": "253147",
-      "school_name": "253147",
-      "post_title": "Scoil Naomh Padraig",
-      "post_type": "Special Needs Assistant",
-      "county": "Substitute - maternity",
+      "school_name": "Scoil Naomh Padraig",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute - maternity",
+      "county": "Galway",
       "closing_date": "04/06/2026",
-      "roll_number": "18332B",
-      "address": null
+      "roll_number": "18332B"
     },
     {
       "post_id": "252874",
-      "school_name": "252874",
-      "post_title": "St Andrews NS",
-      "post_type": "Special Needs Assistant",
-      "county": "Fixed-term",
-      "roll_number": "03607G",
-      "address": null
+      "school_name": "St Andrews NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "roll_number": "03607G"
     }
   ]
 }
