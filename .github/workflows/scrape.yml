@@ -1,0 +1,37 @@
+name: Scrape SNA Vacancies
+
+on:
+  schedule:
+    # Run daily at 7:00 AM UTC (8:00 AM Irish time)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        env:
+          EP_EMAIL: ${{ secrets.EP_EMAIL }}
+          EP_PASSWORD: ${{ secrets.EP_PASSWORD }}
+        run: python scrape_educationposts.py
+
+      - name: Commit updated vacancies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vacancies.json
+          git diff --cached --quiet || git commit -m "Update vacancies $(date -u +%Y-%m-%d)"
+          git push
