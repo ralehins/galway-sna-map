@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-06-02T11:10:21.424787Z",
+  "scraped_at": "2026-06-03T11:49:10.284097Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "253983",
+      "school_name": "SN Naomh Treasa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "17/06/2026",
+      "roll_number": "17660N"
+    },
+    {
+      "post_id": "254010",
+      "school_name": "Gaelscoil Riabhach",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "17/06/2026",
+      "roll_number": "20123E"
+    },
+    {
+      "post_id": "253812",
+      "school_name": "Scoil Rónáin",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute - maternity",
+      "county": "Galway",
+      "closing_date": "16/06/2026",
+      "roll_number": "17456O"
+    },
     {
       "post_id": "253525",
       "school_name": "St Joseph's NS",
@@ -63,7 +90,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "04/06/2026",
       "roll_number": "20350P"
     },
     {
@@ -72,16 +98,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Substitute - maternity",
       "county": "Galway",
-      "closing_date": "04/06/2026",
       "roll_number": "18332B"
-    },
-    {
-      "post_id": "252874",
-      "school_name": "St Andrews NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "03607G"
     }
   ]
 }
