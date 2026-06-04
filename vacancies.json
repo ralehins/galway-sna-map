@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-03T11:49:10.284097Z",
+  "scraped_at": "2026-06-04T10:31:43.190245Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -20,6 +20,15 @@
       "county": "Galway",
       "closing_date": "17/06/2026",
       "roll_number": "20123E"
+    },
+    {
+      "post_id": "254123",
+      "school_name": "SN Tuairini",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "17/06/2026",
+      "roll_number": "13415D"
     },
     {
       "post_id": "253812",
