@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-04T10:31:43.190245Z",
+  "scraped_at": "2026-06-05T10:38:52.791625Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "254325",
+      "school_name": "St Augustines NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "19/06/2026",
+      "roll_number": "17919F"
+    },
     {
       "post_id": "253983",
       "school_name": "SN Naomh Treasa",
@@ -92,22 +101,6 @@
       "county": "Galway",
       "closing_date": "08/06/2026",
       "roll_number": "17539S"
-    },
-    {
-      "post_id": "253071",
-      "school_name": "Merlin Woods Primary School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "20350P"
-    },
-    {
-      "post_id": "253147",
-      "school_name": "Scoil Naomh Padraig",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute - maternity",
-      "county": "Galway",
-      "roll_number": "18332B"
     }
   ]
 }
