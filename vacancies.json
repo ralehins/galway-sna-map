@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-06-07T09:53:33.420363Z",
+  "scraped_at": "2026-06-08T11:47:17.632241Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "254471",
+      "school_name": "Scoil Bhrige agus Bhreandain Naofa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Standard SNA",
+      "county": "Galway",
+      "closing_date": "22/06/2026",
+      "roll_number": "19997M"
+    },
+    {
+      "post_id": "254489",
+      "school_name": "Leenane NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "22/06/2026",
+      "roll_number": "18490T"
+    },
+    {
+      "post_id": "254494",
+      "school_name": "Gaelscoil Riada",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "22/06/2026",
+      "roll_number": "20237T"
+    },
     {
       "post_id": "254325",
       "school_name": "St Augustines NS",
@@ -81,7 +108,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "09/06/2026",
       "roll_number": "18268S"
     },
     {
@@ -90,7 +116,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "09/06/2026",
       "roll_number": "19803T"
     },
     {
