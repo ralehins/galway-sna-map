@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-08T11:47:17.632241Z",
+  "scraped_at": "2026-06-09T10:25:51.262779Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -99,7 +99,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "10/06/2026",
       "roll_number": "13856K"
     },
     {
@@ -117,14 +116,6 @@
       "post_type": "Part-Time",
       "county": "Galway",
       "roll_number": "19803T"
-    },
-    {
-      "post_id": "253356",
-      "school_name": "Kilcroan National School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17539S"
     }
   ]
 }
