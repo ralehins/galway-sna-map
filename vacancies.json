@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-09T10:25:51.262779Z",
+  "scraped_at": "2026-06-10T10:45:39.123837Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "254835",
+      "school_name": "Radharc Na Mara Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "23/06/2026",
+      "roll_number": "20554I"
+    },
     {
       "post_id": "254471",
       "school_name": "Scoil Bhrige agus Bhreandain Naofa",
@@ -81,7 +90,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "11/06/2026",
       "roll_number": "18572V"
     },
     {
@@ -90,7 +98,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "11/06/2026",
       "roll_number": "13415D"
     },
     {
@@ -100,22 +107,6 @@
       "post_type": "Permanent",
       "county": "Galway",
       "roll_number": "13856K"
-    },
-    {
-      "post_id": "253461",
-      "school_name": "SN Cillinin",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "18268S"
-    },
-    {
-      "post_id": "253473",
-      "school_name": "Scoil Sheamais Naofa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "19803T"
     }
   ]
 }
