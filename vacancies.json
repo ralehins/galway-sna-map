@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-10T10:45:39.123837Z",
+  "scraped_at": "2026-06-11T11:16:09.122960Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "255039",
+      "school_name": "St John the Apostle Knocknacarra NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "25/06/2026",
+      "roll_number": "20108I"
+    },
     {
       "post_id": "254835",
       "school_name": "Radharc Na Mara Primary School",
@@ -99,14 +108,6 @@
       "post_type": "Part-Time",
       "county": "Galway",
       "roll_number": "13415D"
-    },
-    {
-      "post_id": "253550",
-      "school_name": "Bushypark NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "13856K"
     }
   ]
 }
