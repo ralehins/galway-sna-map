@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-11T11:16:09.122960Z",
+  "scraped_at": "2026-06-12T10:55:34.149779Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "255015",
+      "school_name": "Lakeview School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "25/06/2026",
+      "roll_number": "19201O"
+    },
     {
       "post_id": "255039",
       "school_name": "St John the Apostle Knocknacarra NS",
@@ -92,22 +101,6 @@
       "county": "Galway",
       "closing_date": "16/06/2026",
       "roll_number": "17456O"
-    },
-    {
-      "post_id": "253525",
-      "school_name": "St Joseph's NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "18572V"
-    },
-    {
-      "post_id": "253712",
-      "school_name": "SN Tuairini",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "13415D"
     }
   ]
 }
