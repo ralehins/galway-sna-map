@@ -1,8 +1,53 @@
 {
-  "scraped_at": "2026-06-15T12:55:34.650214Z",
+  "scraped_at": "2026-06-17T11:25:21.148270Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "255578",
+      "school_name": "Ballyglass NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "30/06/2026",
+      "roll_number": "14642T"
+    },
+    {
+      "post_id": "255693",
+      "school_name": "Scoil Naomh Iosef",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "30/06/2026",
+      "roll_number": "18289D"
+    },
+    {
+      "post_id": "255694",
+      "school_name": "Scoil Naomh Iosef",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "30/06/2026",
+      "roll_number": "18289D"
+    },
+    {
+      "post_id": "255579",
+      "school_name": "Trinity Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "29/06/2026",
+      "roll_number": "20547L"
+    },
+    {
+      "post_id": "255581",
+      "school_name": "Trinity Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "29/06/2026",
+      "roll_number": "20547L"
+    },
     {
       "post_id": "255249",
       "school_name": "Barnaderg NS",
@@ -81,7 +126,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "17/06/2026",
       "roll_number": "17660N"
     },
     {
@@ -90,7 +134,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "17/06/2026",
       "roll_number": "20123E"
     },
     {
@@ -99,16 +142,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "17/06/2026",
       "roll_number": "13415D"
-    },
-    {
-      "post_id": "253812",
-      "school_name": "Scoil Rónáin",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute - maternity",
-      "county": "Galway",
-      "roll_number": "17456O"
     }
   ]
 }
