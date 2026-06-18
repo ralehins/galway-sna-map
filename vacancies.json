@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-06-17T11:25:21.148270Z",
+  "scraped_at": "2026-06-18T11:03:04.158120Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "255771",
+      "school_name": "St Jarlath's NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "08/07/2026",
+      "roll_number": "17863E"
+    },
+    {
+      "post_id": "255827",
+      "school_name": "St Teresa's Special NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "01/07/2026",
+      "roll_number": "20328W"
+    },
     {
       "post_id": "255578",
       "school_name": "Ballyglass NS",
@@ -11,24 +29,6 @@
       "county": "Galway",
       "closing_date": "30/06/2026",
       "roll_number": "14642T"
-    },
-    {
-      "post_id": "255693",
-      "school_name": "Scoil Naomh Iosef",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "closing_date": "30/06/2026",
-      "roll_number": "18289D"
-    },
-    {
-      "post_id": "255694",
-      "school_name": "Scoil Naomh Iosef",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "closing_date": "30/06/2026",
-      "roll_number": "18289D"
     },
     {
       "post_id": "255579",
@@ -117,32 +117,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "19/06/2026",
       "roll_number": "17919F"
-    },
-    {
-      "post_id": "253983",
-      "school_name": "SN Naomh Treasa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17660N"
-    },
-    {
-      "post_id": "254010",
-      "school_name": "Gaelscoil Riabhach",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "20123E"
-    },
-    {
-      "post_id": "254123",
-      "school_name": "SN Tuairini",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "13415D"
     }
   ]
 }
