@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-18T11:03:04.158120Z",
+  "scraped_at": "2026-06-19T11:09:54.585287Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -13,8 +13,26 @@
       "roll_number": "17863E"
     },
     {
+      "post_id": "255981",
+      "school_name": "Scoil Naomh Iosef",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "02/07/2026",
+      "roll_number": "18289D"
+    },
+    {
+      "post_id": "255990",
+      "school_name": "St Nicholas NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Standard SNA",
+      "county": "Galway",
+      "closing_date": "02/07/2026",
+      "roll_number": "16943U"
+    },
+    {
       "post_id": "255827",
-      "school_name": "St Teresa's Special NS",
+      "school_name": "St. Teresa's Special School",
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
