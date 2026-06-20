@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T11:09:54.585287Z",
+  "scraped_at": "2026-06-20T09:55:19.779158Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "08/07/2026",
       "roll_number": "17863E"
+    },
+    {
+      "post_id": "256031",
+      "school_name": "Scoil ChroI Iosa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Standard SNA",
+      "county": "Galway",
+      "closing_date": "03/07/2026",
+      "roll_number": "01013N"
     },
     {
       "post_id": "255981",
@@ -128,14 +137,6 @@
       "county": "Galway",
       "closing_date": "22/06/2026",
       "roll_number": "20237T"
-    },
-    {
-      "post_id": "254325",
-      "school_name": "St Augustines NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17919F"
     }
   ]
 }
