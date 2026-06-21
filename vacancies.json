@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T09:55:19.779158Z",
+  "scraped_at": "2026-06-21T10:23:24.149088Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -117,7 +117,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "22/06/2026",
       "roll_number": "19997M"
     },
     {
@@ -126,7 +125,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "22/06/2026",
       "roll_number": "18490T"
     },
     {
@@ -135,7 +133,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "22/06/2026",
       "roll_number": "20237T"
     }
   ]
