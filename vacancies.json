@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-21T10:23:24.149088Z",
+  "scraped_at": "2026-06-22T12:39:42.400684Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -13,6 +13,24 @@
       "roll_number": "17863E"
     },
     {
+      "post_id": "256363",
+      "school_name": "SN Creachmhaoil",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "06/07/2026",
+      "roll_number": "05754G"
+    },
+    {
+      "post_id": "256325",
+      "school_name": "Gaelscoil Iarfhlatha",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "06/07/2026",
+      "roll_number": "20061I"
+    },
+    {
       "post_id": "256031",
       "school_name": "Scoil ChroI Iosa",
       "post_title": "Special Needs Assistant",
@@ -22,15 +40,6 @@
       "roll_number": "01013N"
     },
     {
-      "post_id": "255981",
-      "school_name": "Scoil Naomh Iosef",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "closing_date": "02/07/2026",
-      "roll_number": "18289D"
-    },
-    {
       "post_id": "255990",
       "school_name": "St Nicholas NS",
       "post_title": "Special Needs Assistant",
@@ -38,6 +47,15 @@
       "county": "Galway",
       "closing_date": "02/07/2026",
       "roll_number": "16943U"
+    },
+    {
+      "post_id": "255981",
+      "school_name": "Scoil Naomh Iosef",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "02/07/2026",
+      "roll_number": "18289D"
     },
     {
       "post_id": "255827",
@@ -85,15 +103,6 @@
       "roll_number": "19275U"
     },
     {
-      "post_id": "255015",
-      "school_name": "Lakeview School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "closing_date": "25/06/2026",
-      "roll_number": "19201O"
-    },
-    {
       "post_id": "255039",
       "school_name": "St John the Apostle Knocknacarra NS",
       "post_title": "Special Needs Assistant",
@@ -103,12 +112,20 @@
       "roll_number": "20108I"
     },
     {
+      "post_id": "255015",
+      "school_name": "Lakeview School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "25/06/2026",
+      "roll_number": "19201O"
+    },
+    {
       "post_id": "254835",
       "school_name": "Radharc Na Mara Primary School",
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "23/06/2026",
       "roll_number": "20554I"
     },
     {
@@ -120,20 +137,20 @@
       "roll_number": "19997M"
     },
     {
-      "post_id": "254489",
-      "school_name": "Leenane NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "18490T"
-    },
-    {
       "post_id": "254494",
       "school_name": "Gaelscoil Riada",
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
       "roll_number": "20237T"
+    },
+    {
+      "post_id": "254489",
+      "school_name": "Leenane NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "roll_number": "18490T"
     }
   ]
 }
