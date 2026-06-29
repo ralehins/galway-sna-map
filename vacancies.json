@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-28T09:50:02.019300Z",
+  "scraped_at": "2026-06-29T11:51:24.858009Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "257781",
+      "school_name": "Scoil Naomh Colman Mac Duaigh",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "13/07/2026",
+      "roll_number": "19377F"
+    },
     {
       "post_id": "257714",
       "school_name": "St Patricks PS",
@@ -31,13 +40,13 @@
       "roll_number": "20042E"
     },
     {
-      "post_id": "257444",
-      "school_name": "Garrafrauns Central School",
+      "post_id": "257511",
+      "school_name": "Scoil Náisiúnta na Coille Glaise",
       "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
+      "post_type": "Part-Time",
       "county": "Galway",
       "closing_date": "09/07/2026",
-      "roll_number": "19391W"
+      "roll_number": "10863P"
     },
     {
       "post_id": "257326",
@@ -49,13 +58,13 @@
       "roll_number": "18089S"
     },
     {
-      "post_id": "257511",
-      "school_name": "Scoil Náisiúnta na Coille Glaise",
+      "post_id": "257444",
+      "school_name": "Garrafrauns Central School",
       "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
+      "post_type": "Fixed-term",
       "county": "Galway",
       "closing_date": "09/07/2026",
-      "roll_number": "10863P"
+      "roll_number": "19391W"
     },
     {
       "post_id": "257519",
@@ -112,13 +121,13 @@
       "roll_number": "14394D"
     },
     {
-      "post_id": "256621",
-      "school_name": "Gaelscoil Dara",
+      "post_id": "256671",
+      "school_name": "Scoil Chaitriona Junior",
       "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
+      "post_type": "Fixed-term",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "19858V"
+      "roll_number": "19401W"
     },
     {
       "post_id": "256772",
@@ -166,13 +175,13 @@
       "roll_number": "19932H"
     },
     {
-      "post_id": "256671",
-      "school_name": "Scoil Chaitriona Junior",
+      "post_id": "256621",
+      "school_name": "Gaelscoil Dara",
       "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
+      "post_type": "Permanent",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "19401W"
+      "roll_number": "19858V"
     },
     {
       "post_id": "256608",
@@ -279,7 +288,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "30/06/2026",
       "roll_number": "14642T"
     },
     {
