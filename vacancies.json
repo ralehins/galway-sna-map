@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T10:35:44.902276Z",
+  "scraped_at": "2026-07-02T09:49:45.097073Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "17/07/2026",
       "roll_number": "19276W"
+    },
+    {
+      "post_id": "258064",
+      "school_name": "Knocknacarra ETNS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "15/07/2026",
+      "roll_number": "20410H"
     },
     {
       "post_id": "258003",
@@ -67,13 +76,13 @@
       "roll_number": "19377F"
     },
     {
-      "post_id": "257692",
-      "school_name": "Scoil Mhuire",
+      "post_id": "257714",
+      "school_name": "St Patricks PS",
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
       "closing_date": "10/07/2026",
-      "roll_number": "17845C"
+      "roll_number": "17784I"
     },
     {
       "post_id": "257643",
@@ -85,13 +94,13 @@
       "roll_number": "20042E"
     },
     {
-      "post_id": "257714",
-      "school_name": "St Patricks PS",
+      "post_id": "257692",
+      "school_name": "Scoil Mhuire",
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
       "closing_date": "10/07/2026",
-      "roll_number": "17784I"
+      "roll_number": "17845C"
     },
     {
       "post_id": "257534",
@@ -175,13 +184,13 @@
       "roll_number": "14394D"
     },
     {
-      "post_id": "256772",
-      "school_name": "Gaelscoil Riada",
+      "post_id": "256751",
+      "school_name": "St Marys NS",
       "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
+      "post_type": "Part-Time",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "20237T"
+      "roll_number": "18125T"
     },
     {
       "post_id": "256608",
@@ -238,13 +247,13 @@
       "roll_number": "19994G"
     },
     {
-      "post_id": "256751",
-      "school_name": "St Marys NS",
+      "post_id": "256772",
+      "school_name": "Gaelscoil Riada",
       "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
+      "post_type": "Permanent",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "18125T"
+      "roll_number": "20237T"
     },
     {
       "post_id": "256495",
@@ -306,7 +315,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "03/07/2026",
       "roll_number": "01013N"
     },
     {
@@ -324,14 +332,6 @@
       "post_type": "Fixed-term",
       "county": "Galway",
       "roll_number": "18289D"
-    },
-    {
-      "post_id": "255827",
-      "school_name": "St. Teresa's Special School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "20328W"
     }
   ]
 }
