@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T09:49:45.097073Z",
+  "scraped_at": "2026-07-03T09:47:34.626687Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -85,6 +85,15 @@
       "roll_number": "17784I"
     },
     {
+      "post_id": "257692",
+      "school_name": "Scoil Mhuire",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Standard SNA",
+      "county": "Galway",
+      "closing_date": "10/07/2026",
+      "roll_number": "17845C"
+    },
+    {
       "post_id": "257643",
       "school_name": "Scoil an Chroi Naofa",
       "post_title": "Special Needs Assistant",
@@ -94,13 +103,13 @@
       "roll_number": "20042E"
     },
     {
-      "post_id": "257692",
-      "school_name": "Scoil Mhuire",
+      "post_id": "257326",
+      "school_name": "Maree NS",
       "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
+      "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "10/07/2026",
-      "roll_number": "17845C"
+      "closing_date": "09/07/2026",
+      "roll_number": "18089S"
     },
     {
       "post_id": "257534",
@@ -148,13 +157,13 @@
       "roll_number": "19391W"
     },
     {
-      "post_id": "257326",
-      "school_name": "Maree NS",
+      "post_id": "257413",
+      "school_name": "Scoil Mhuire",
       "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
+      "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "09/07/2026",
-      "roll_number": "18089S"
+      "closing_date": "08/07/2026",
+      "roll_number": "18746F"
     },
     {
       "post_id": "255771",
@@ -166,15 +175,6 @@
       "roll_number": "17863E"
     },
     {
-      "post_id": "257413",
-      "school_name": "Scoil Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "closing_date": "08/07/2026",
-      "roll_number": "18746F"
-    },
-    {
       "post_id": "252662",
       "school_name": "S.N. Cill Fheicin",
       "post_title": "Special Needs Assistant",
@@ -182,6 +182,15 @@
       "county": "Galway",
       "closing_date": "08/07/2026",
       "roll_number": "14394D"
+    },
+    {
+      "post_id": "256772",
+      "school_name": "Gaelscoil Riada",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "07/07/2026",
+      "roll_number": "20237T"
     },
     {
       "post_id": "256751",
@@ -193,40 +202,13 @@
       "roll_number": "18125T"
     },
     {
-      "post_id": "256608",
-      "school_name": "Scoil Naisiunta Uachtar Ard",
+      "post_id": "256724",
+      "school_name": "Gaelscoil Mhic Amhlaigh",
       "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
+      "post_type": "Part-Time",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "20199O"
-    },
-    {
-      "post_id": "256621",
-      "school_name": "Gaelscoil Dara",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "closing_date": "07/07/2026",
-      "roll_number": "19858V"
-    },
-    {
-      "post_id": "256671",
-      "school_name": "Scoil Chaitriona Junior",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "closing_date": "07/07/2026",
-      "roll_number": "19401W"
-    },
-    {
-      "post_id": "256695",
-      "school_name": "Scoil Mhic Dara",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "closing_date": "07/07/2026",
-      "roll_number": "19932H"
+      "roll_number": "19994G"
     },
     {
       "post_id": "256722",
@@ -238,22 +220,40 @@
       "roll_number": "17118R"
     },
     {
-      "post_id": "256724",
-      "school_name": "Gaelscoil Mhic Amhlaigh",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "closing_date": "07/07/2026",
-      "roll_number": "19994G"
-    },
-    {
-      "post_id": "256772",
-      "school_name": "Gaelscoil Riada",
+      "post_id": "256695",
+      "school_name": "Scoil Mhic Dara",
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
       "closing_date": "07/07/2026",
-      "roll_number": "20237T"
+      "roll_number": "19932H"
+    },
+    {
+      "post_id": "256671",
+      "school_name": "Scoil Chaitriona Junior",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "07/07/2026",
+      "roll_number": "19401W"
+    },
+    {
+      "post_id": "256621",
+      "school_name": "Gaelscoil Dara",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "07/07/2026",
+      "roll_number": "19858V"
+    },
+    {
+      "post_id": "256608",
+      "school_name": "Scoil Naisiunta Uachtar Ard",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "07/07/2026",
+      "roll_number": "20199O"
     },
     {
       "post_id": "256495",
@@ -316,22 +316,6 @@
       "post_type": "Standard SNA",
       "county": "Galway",
       "roll_number": "01013N"
-    },
-    {
-      "post_id": "255990",
-      "school_name": "St Nicholas NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "16943U"
-    },
-    {
-      "post_id": "255981",
-      "school_name": "Scoil Naomh Iosef",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "18289D"
     }
   ]
 }
