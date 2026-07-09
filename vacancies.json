@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T09:17:29.487920Z",
+  "scraped_at": "2026-07-09T10:20:40.414597Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -99,7 +99,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "10/07/2026",
       "roll_number": "17784I"
     },
     {
@@ -108,7 +107,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "10/07/2026",
       "roll_number": "17845C"
     },
     {
@@ -117,8 +115,15 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "10/07/2026",
       "roll_number": "20042E"
+    },
+    {
+      "post_id": "257326",
+      "school_name": "Maree NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "roll_number": "18089S"
     },
     {
       "post_id": "257534",
@@ -159,38 +164,6 @@
       "post_type": "Fixed-term",
       "county": "Galway",
       "roll_number": "19391W"
-    },
-    {
-      "post_id": "257326",
-      "school_name": "Maree NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "18089S"
-    },
-    {
-      "post_id": "252662",
-      "school_name": "S.N. Cill Fheicin",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "14394D"
-    },
-    {
-      "post_id": "257413",
-      "school_name": "Scoil Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "18746F"
-    },
-    {
-      "post_id": "255771",
-      "school_name": "St Jarlath's NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "17863E"
     }
   ]
 }
