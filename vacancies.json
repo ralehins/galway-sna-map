@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T10:12:30.720604Z",
+  "scraped_at": "2026-07-11T08:31:27.376426Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -92,30 +92,6 @@
       "county": "Galway",
       "closing_date": "13/07/2026",
       "roll_number": "19377F"
-    },
-    {
-      "post_id": "257643",
-      "school_name": "Scoil an Chroi Naofa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "20042E"
-    },
-    {
-      "post_id": "257692",
-      "school_name": "Scoil Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "17845C"
-    },
-    {
-      "post_id": "257714",
-      "school_name": "St Patricks PS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "17784I"
     }
   ]
 }
