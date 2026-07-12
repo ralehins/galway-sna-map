@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T08:31:27.376426Z",
+  "scraped_at": "2026-07-12T08:56:36.188138Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -90,7 +90,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "13/07/2026",
       "roll_number": "19377F"
     }
   ]
