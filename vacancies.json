@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-14T08:56:37.064908Z",
+  "scraped_at": "2026-07-15T09:02:44.103481Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "258813",
+      "school_name": "SN Baile an Leasa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "28/07/2026",
+      "roll_number": "17760R"
+    },
     {
       "post_id": "258246",
       "school_name": "Cuan na Gaillimhe CNS",
@@ -37,46 +46,6 @@
       "post_type": "Part-Time",
       "county": "Galway",
       "roll_number": "20410H"
-    },
-    {
-      "post_id": "257794",
-      "school_name": "S.N Thír an Fhia",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "17689O"
-    },
-    {
-      "post_id": "257952",
-      "school_name": "S.N. MUIRE GAN SMAL",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17198S"
-    },
-    {
-      "post_id": "257954",
-      "school_name": "Lisheenkyle NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17771W"
-    },
-    {
-      "post_id": "257979",
-      "school_name": "Scoil Íosa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "20584R"
-    },
-    {
-      "post_id": "258003",
-      "school_name": "Ábalta Special School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "20371A"
     }
   ]
 }
