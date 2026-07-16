@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T09:02:44.103481Z",
+  "scraped_at": "2026-07-16T09:06:23.865435Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -36,16 +36,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "17/07/2026",
       "roll_number": "19276W"
-    },
-    {
-      "post_id": "258064",
-      "school_name": "Knocknacarra ETNS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "20410H"
     }
   ]
 }
