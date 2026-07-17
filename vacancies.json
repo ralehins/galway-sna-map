@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-16T09:06:23.865435Z",
+  "scraped_at": "2026-07-17T09:01:41.521175Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "258914",
+      "school_name": "Scoil Speisialta Tigh Nan Dooley",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "30/07/2026",
+      "roll_number": null
+    },
     {
       "post_id": "258813",
       "school_name": "SN Baile an Leasa",
@@ -27,7 +36,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "18/07/2026",
       "roll_number": "18514H"
     },
     {
