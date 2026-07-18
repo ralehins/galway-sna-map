@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T09:01:41.521175Z",
+  "scraped_at": "2026-07-18T08:28:45.325934Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -37,14 +37,6 @@
       "post_type": "Fixed-term",
       "county": "Galway",
       "roll_number": "18514H"
-    },
-    {
-      "post_id": "257865",
-      "school_name": "St Colmans NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "19276W"
     }
   ]
 }
