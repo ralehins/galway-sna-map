@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T09:20:12.962461Z",
+  "scraped_at": "2026-07-22T09:19:20.601796Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -20,14 +20,6 @@
       "county": "Galway",
       "closing_date": "28/07/2026",
       "roll_number": "17760R"
-    },
-    {
-      "post_id": "258246",
-      "school_name": "Cuan na Gaillimhe CNS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "20462D"
     }
   ]
 }
