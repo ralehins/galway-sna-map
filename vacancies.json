@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-24T09:13:12.449629Z",
+  "scraped_at": "2026-07-25T08:53:16.977143Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "259379",
+      "school_name": "Clonberne Central School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "07/08/2026",
+      "roll_number": "19388K"
+    },
     {
       "post_id": "259279",
       "school_name": "Baile Mor Shil Anmachadha",
