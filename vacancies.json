@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-07-27T10:30:29.406040Z",
+  "scraped_at": "2026-07-28T09:29:11.869889Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "259540",
+      "school_name": "SN Mhuire",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "10/08/2026",
+      "roll_number": "11373D"
+    },
+    {
+      "post_id": "259542",
+      "school_name": "SN Mhuire",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "10/08/2026",
+      "roll_number": "11373D"
+    },
     {
       "post_id": "259379",
       "school_name": "Clonberne Central School",
