@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T09:29:11.869889Z",
+  "scraped_at": "2026-07-29T09:30:44.298443Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -9,7 +9,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "10/08/2026",
+      "closing_date": "26/07/2026",
       "roll_number": "11373D"
     },
     {
@@ -18,7 +18,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "10/08/2026",
+      "closing_date": "26/07/2026",
       "roll_number": "11373D"
     },
     {
@@ -27,7 +27,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "07/08/2026",
+      "closing_date": "10/08/2026",
       "roll_number": "19388K"
     },
     {
@@ -36,7 +36,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "06/08/2026",
+      "closing_date": "10/08/2026",
       "roll_number": "17170T"
     },
     {
@@ -45,7 +45,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "06/08/2026",
+      "closing_date": "07/08/2026",
       "roll_number": "12782C"
     },
     {
@@ -54,16 +54,8 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "30/07/2026",
+      "closing_date": "06/08/2026",
       "roll_number": null
-    },
-    {
-      "post_id": "258813",
-      "school_name": "SN Baile an Leasa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "17760R"
     }
   ]
 }
