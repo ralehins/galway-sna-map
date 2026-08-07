@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-06T09:32:51.739381Z",
+  "scraped_at": "2026-08-07T08:02:55.676181Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "258972",
+      "school_name": "Merlin Woods Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "21/08/2026",
+      "roll_number": "20350P"
+    },
     {
       "post_id": "259725",
       "school_name": "St Vincents NS",
@@ -37,22 +46,6 @@
       "post_type": "Fixed-term",
       "county": "Galway",
       "roll_number": "19388K"
-    },
-    {
-      "post_id": "259279",
-      "school_name": "Baile Mor Shil Anmachadha",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "17170T"
-    },
-    {
-      "post_id": "259312",
-      "school_name": "Bunscoil Naomh Cuana",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "12782C"
     }
   ]
 }
