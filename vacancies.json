@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T08:02:55.676181Z",
+  "scraped_at": "2026-08-08T07:38:05.836489Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -38,14 +38,6 @@
       "county": "Galway",
       "closing_date": "10/08/2026",
       "roll_number": "11373D"
-    },
-    {
-      "post_id": "259379",
-      "school_name": "Clonberne Central School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "19388K"
     }
   ]
 }
