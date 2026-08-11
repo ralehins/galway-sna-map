@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-10T08:18:30.861519Z",
+  "scraped_at": "2026-08-11T07:59:42.897470Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "260485",
+      "school_name": "Scoil Chaitriona Junior",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "24/08/2026",
+      "roll_number": "19401W"
+    },
     {
       "post_id": "260425",
       "school_name": "Scoil Mhuire",
@@ -29,22 +38,6 @@
       "county": "Galway",
       "closing_date": "13/08/2026",
       "roll_number": "16857E"
-    },
-    {
-      "post_id": "259540",
-      "school_name": "SN Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "11373D"
-    },
-    {
-      "post_id": "259542",
-      "school_name": "SN Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "11373D"
     }
   ]
 }
