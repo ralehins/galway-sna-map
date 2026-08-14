@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-13T08:08:39.981348Z",
+  "scraped_at": "2026-08-14T08:05:16.028564Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -47,14 +47,6 @@
       "county": "Galway",
       "closing_date": "21/08/2026",
       "roll_number": "20350P"
-    },
-    {
-      "post_id": "259725",
-      "school_name": "St Vincents NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "16857E"
     }
   ]
 }
