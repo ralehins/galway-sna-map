@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-19T07:27:23.431565Z",
+  "scraped_at": "2026-08-20T07:30:21.279404Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
-    {
-      "post_id": "260574",
-      "school_name": "Knocknacarra ETNS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "closing_date": "25/08/2026",
-      "roll_number": "20410H"
-    },
     {
       "post_id": "260593",
       "school_name": "SN Lorcain Naofa",
@@ -20,6 +11,15 @@
       "county": "Galway",
       "closing_date": "25/08/2026",
       "roll_number": "17490O"
+    },
+    {
+      "post_id": "260574",
+      "school_name": "Knocknacarra ETNS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "25/08/2026",
+      "roll_number": "20410H"
     },
     {
       "post_id": "260485",
@@ -45,7 +45,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "21/08/2026",
       "roll_number": "20350P"
     }
   ]
