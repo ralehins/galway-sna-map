@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T07:32:36.156371Z",
+  "scraped_at": "2026-08-22T07:20:53.892320Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -37,14 +37,6 @@
       "post_type": "Standard SNA",
       "county": "Galway",
       "roll_number": "19965W"
-    },
-    {
-      "post_id": "258972",
-      "school_name": "Merlin Woods Primary School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "20350P"
     }
   ]
 }
