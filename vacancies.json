@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T07:20:53.892320Z",
+  "scraped_at": "2026-08-23T07:22:37.093004Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -27,16 +27,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "24/08/2026",
       "roll_number": "19401W"
-    },
-    {
-      "post_id": "260425",
-      "school_name": "Scoil Mhuire",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "19965W"
     }
   ]
 }
