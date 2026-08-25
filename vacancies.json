@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-24T07:46:28.318718Z",
+  "scraped_at": "2026-08-25T07:33:02.791215Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "261240",
+      "school_name": "Athenry Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "07/09/2026",
+      "roll_number": "20582N"
+    },
     {
       "post_id": "260593",
       "school_name": "SN Lorcain Naofa",
@@ -18,14 +27,6 @@
       "post_type": "Permanent",
       "county": "Galway",
       "roll_number": "20410H"
-    },
-    {
-      "post_id": "260485",
-      "school_name": "Scoil Chaitriona Junior",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "19401W"
     }
   ]
 }
