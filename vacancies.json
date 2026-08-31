@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-30T12:19:56.377786Z",
+  "scraped_at": "2026-08-31T14:30:11.593074Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "261583",
+      "school_name": "Kilcolgan Educate Together",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "14/09/2026",
+      "roll_number": "20326S"
+    },
     {
       "post_id": "261526",
       "school_name": "SN Baile an Leasa",
