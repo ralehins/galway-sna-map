@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-31T14:30:11.593074Z",
+  "scraped_at": "2026-09-01T12:08:38.398762Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "261499",
+      "school_name": "Ábalta Special School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute",
+      "county": "Galway",
+      "closing_date": "08/10/2026",
+      "roll_number": "20371A"
+    },
     {
       "post_id": "261583",
       "school_name": "Kilcolgan Educate Together",
