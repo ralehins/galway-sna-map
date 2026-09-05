@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-04T11:47:50.101441Z",
+  "scraped_at": "2026-09-05T10:57:46.308856Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "08/10/2026",
       "roll_number": "20371A"
+    },
+    {
+      "post_id": "261878",
+      "school_name": "SN Na Maighdine Muire Gan Smál",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "18/09/2026",
+      "roll_number": "11290W"
     },
     {
       "post_id": "261583",
