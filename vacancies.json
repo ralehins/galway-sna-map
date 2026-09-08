@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-07T13:04:21.255784Z",
+  "scraped_at": "2026-09-08T11:47:49.462829Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "08/10/2026",
       "roll_number": "20371A"
+    },
+    {
+      "post_id": "261911",
+      "school_name": "St Brendans NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "22/09/2026",
+      "roll_number": "19996K"
     },
     {
       "post_id": "261914",
@@ -54,7 +63,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Standard SNA",
       "county": "Galway",
-      "closing_date": "09/09/2026",
       "roll_number": null
     },
     {
@@ -63,16 +71,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Part-Time",
       "county": "Galway",
-      "closing_date": "09/09/2026",
       "roll_number": "14642T"
-    },
-    {
-      "post_id": "261240",
-      "school_name": "Athenry Primary School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "20582N"
     }
   ]
 }
