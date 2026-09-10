@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T11:59:51.853383Z",
+  "scraped_at": "2026-09-10T11:53:32.422313Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "08/10/2026",
       "roll_number": "20371A"
+    },
+    {
+      "post_id": "262066",
+      "school_name": "St Jarlath's NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute - maternity",
+      "county": "Galway",
+      "closing_date": "25/09/2026",
+      "roll_number": "17863E"
     },
     {
       "post_id": "261911",
@@ -54,24 +63,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "11/09/2026",
       "roll_number": "17760R"
-    },
-    {
-      "post_id": "261453",
-      "school_name": "Killeen N.S.",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": null
-    },
-    {
-      "post_id": "261432",
-      "school_name": "Ballyglass NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "14642T"
     }
   ]
 }
