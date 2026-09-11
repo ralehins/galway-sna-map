@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T11:53:32.422313Z",
+  "scraped_at": "2026-09-11T11:52:34.231834Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -13,6 +13,15 @@
       "roll_number": "20371A"
     },
     {
+      "post_id": "262128",
+      "school_name": "SN Creachmhaoil",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Permanent",
+      "county": "Galway",
+      "closing_date": "25/09/2026",
+      "roll_number": "05754G"
+    },
+    {
       "post_id": "262066",
       "school_name": "St Jarlath's NS",
       "post_title": "Special Needs Assistant",
@@ -20,6 +29,15 @@
       "county": "Galway",
       "closing_date": "25/09/2026",
       "roll_number": "17863E"
+    },
+    {
+      "post_id": "261873",
+      "school_name": "Scoil Chaitriona Senior",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Fixed-term",
+      "county": "Galway",
+      "closing_date": "24/09/2026",
+      "roll_number": "19468I"
     },
     {
       "post_id": "261911",
