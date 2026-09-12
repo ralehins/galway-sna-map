@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T11:52:34.231834Z",
+  "scraped_at": "2026-09-12T11:19:04.228089Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -74,14 +74,6 @@
       "county": "Galway",
       "closing_date": "14/09/2026",
       "roll_number": "20326S"
-    },
-    {
-      "post_id": "261526",
-      "school_name": "SN Baile an Leasa",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "17760R"
     }
   ]
 }
