@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T12:15:42.365167Z",
+  "scraped_at": "2026-09-18T11:55:02.794381Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "08/10/2026",
       "roll_number": "20371A"
+    },
+    {
+      "post_id": "262397",
+      "school_name": "Scoil Sheosaimh Naofa",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute - less than 24 weeks",
+      "county": "Galway",
+      "closing_date": "02/10/2026",
+      "roll_number": "17444H"
     },
     {
       "post_id": "262128",
