@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T13:25:02.361662Z",
+  "scraped_at": "2026-09-22T12:09:02.357608Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -64,14 +64,6 @@
       "post_type": "Part-Time",
       "county": "Galway",
       "roll_number": "19996K"
-    },
-    {
-      "post_id": "261914",
-      "school_name": "Ballinakill National School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "17273G"
     }
   ]
 }
