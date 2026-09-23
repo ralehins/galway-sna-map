@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T12:09:02.357608Z",
+  "scraped_at": "2026-09-23T12:21:33.575015Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -54,16 +54,7 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Fixed-term",
       "county": "Galway",
-      "closing_date": "24/09/2026",
       "roll_number": "19468I"
-    },
-    {
-      "post_id": "261911",
-      "school_name": "St Brendans NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "19996K"
     }
   ]
 }
