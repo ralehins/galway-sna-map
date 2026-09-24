@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T12:21:33.575015Z",
+  "scraped_at": "2026-09-24T12:21:27.811304Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -36,7 +36,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Permanent",
       "county": "Galway",
-      "closing_date": "25/09/2026",
       "roll_number": "05754G"
     },
     {
@@ -45,7 +44,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Substitute - maternity",
       "county": "Galway",
-      "closing_date": "25/09/2026",
       "roll_number": "17863E"
     },
     {
