@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-24T12:21:27.811304Z",
+  "scraped_at": "2026-09-25T12:21:46.796269Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "262655",
+      "school_name": "Lakeview School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Standard SNA",
+      "county": "Galway",
+      "closing_date": "08/10/2026",
+      "roll_number": "19201O"
+    },
     {
       "post_id": "261499",
       "school_name": "Ábalta Special School",
@@ -45,14 +54,6 @@
       "post_type": "Substitute - maternity",
       "county": "Galway",
       "roll_number": "17863E"
-    },
-    {
-      "post_id": "261873",
-      "school_name": "Scoil Chaitriona Senior",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Fixed-term",
-      "county": "Galway",
-      "roll_number": "19468I"
     }
   ]
 }
