@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-25T12:21:46.796269Z",
+  "scraped_at": "2026-09-26T11:53:03.958612Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "262700",
+      "school_name": "Bunscoil Naomh Cuana",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "09/10/2026",
+      "roll_number": "12782C"
+    },
     {
       "post_id": "262655",
       "school_name": "Lakeview School",
@@ -38,22 +47,6 @@
       "county": "Galway",
       "closing_date": "02/10/2026",
       "roll_number": "17444H"
-    },
-    {
-      "post_id": "262128",
-      "school_name": "SN Creachmhaoil",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Permanent",
-      "county": "Galway",
-      "roll_number": "05754G"
-    },
-    {
-      "post_id": "262066",
-      "school_name": "St Jarlath's NS",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute - maternity",
-      "county": "Galway",
-      "roll_number": "17863E"
     }
   ]
 }
