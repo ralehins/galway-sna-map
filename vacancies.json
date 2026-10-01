@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T13:05:18.222350Z",
+  "scraped_at": "2026-10-01T13:58:11.456365Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,6 +11,15 @@
       "county": "Galway",
       "closing_date": "09/10/2026",
       "roll_number": "12782C"
+    },
+    {
+      "post_id": "262909",
+      "school_name": "St Oliver's School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute",
+      "county": "Galway",
+      "closing_date": "08/10/2026",
+      "roll_number": "20330J"
     },
     {
       "post_id": "262655",
@@ -45,7 +54,6 @@
       "post_title": "Special Needs Assistant",
       "post_type": "Substitute - less than 24 weeks",
       "county": "Galway",
-      "closing_date": "02/10/2026",
       "roll_number": "17444H"
     }
   ]
