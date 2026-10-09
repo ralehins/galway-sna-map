@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T14:06:20.439428Z",
+  "scraped_at": "2026-10-09T13:54:00.612107Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -19,30 +19,6 @@
       "post_type": "Part-Time",
       "county": "Galway",
       "roll_number": "12782C"
-    },
-    {
-      "post_id": "262909",
-      "school_name": "St Oliver's School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute",
-      "county": "Galway",
-      "roll_number": "20330J"
-    },
-    {
-      "post_id": "262655",
-      "school_name": "Lakeview School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "19201O"
-    },
-    {
-      "post_id": "261499",
-      "school_name": "Ábalta Special School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute",
-      "county": "Galway",
-      "roll_number": "20371A"
     }
   ]
 }
