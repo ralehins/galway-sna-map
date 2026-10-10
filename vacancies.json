@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T13:54:00.612107Z",
+  "scraped_at": "2026-10-10T13:06:40.218213Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,14 +11,6 @@
       "county": "Galway",
       "closing_date": "19/10/2026",
       "roll_number": null
-    },
-    {
-      "post_id": "262700",
-      "school_name": "Bunscoil Naomh Cuana",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Part-Time",
-      "county": "Galway",
-      "roll_number": "12782C"
     }
   ]
 }
