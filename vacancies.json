@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-19T14:06:01.536157Z",
+  "scraped_at": "2026-10-20T12:19:53.199184Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -11,14 +11,6 @@
       "county": "Galway",
       "closing_date": "30/10/2026",
       "roll_number": "07455G"
-    },
-    {
-      "post_id": "262969",
-      "school_name": "Killeen N.S.",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": null
     }
   ]
 }
