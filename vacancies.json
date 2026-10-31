@@ -1,15 +1,6 @@
 {
-  "scraped_at": "2026-10-30T13:40:02.767953Z",
+  "scraped_at": "2026-10-31T13:08:54.112780Z",
   "county": "Galway",
   "category": "SNA",
-  "vacancies": [
-    {
-      "post_id": "263336",
-      "school_name": "Scoil Mhuire Gan Smál (Ballygar NS)",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Standard SNA",
-      "county": "Galway",
-      "roll_number": "07455G"
-    }
-  ]
+  "vacancies": []
 }
