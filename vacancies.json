@@ -1,6 +1,16 @@
 {
-  "scraped_at": "2026-11-03T14:42:35.275359Z",
+  "scraped_at": "2026-11-04T14:54:39.180834Z",
   "county": "Galway",
   "category": "SNA",
-  "vacancies": []
+  "vacancies": [
+    {
+      "post_id": "263830",
+      "school_name": "Athenry Primary School",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Substitute - maternity",
+      "county": "Galway",
+      "closing_date": "18/11/2026",
+      "roll_number": "20582N"
+    }
+  ]
 }
