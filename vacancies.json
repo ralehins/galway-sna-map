@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-11-09T16:55:17.927829Z",
+  "scraped_at": "2026-11-10T15:16:04.586144Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
+    {
+      "post_id": "264015",
+      "school_name": "St Marys NS",
+      "post_title": "Special Needs Assistant",
+      "post_type": "Part-Time",
+      "county": "Galway",
+      "closing_date": "24/11/2026",
+      "roll_number": "18125T"
+    },
     {
       "post_id": "263830",
       "school_name": "Athenry Primary School",
