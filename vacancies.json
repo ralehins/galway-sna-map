@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-17T16:31:09.437143Z",
+  "scraped_at": "2026-11-18T15:59:56.729242Z",
   "county": "Galway",
   "category": "SNA",
   "vacancies": [
@@ -19,14 +19,6 @@
       "post_type": "Substitute - maternity",
       "county": "Galway",
       "roll_number": "20582N"
-    },
-    {
-      "post_id": "264120",
-      "school_name": "Merlin Woods Primary School",
-      "post_title": "Special Needs Assistant",
-      "post_type": "Substitute - less than 24 weeks",
-      "county": "Galway",
-      "roll_number": "20350P"
     }
   ]
 }
